@@ -1,0 +1,17 @@
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\bin\Debug\net8.0-windows\ProjeSayiTahminUyg.exe
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\bin\Debug\net8.0-windows\ProjeSayiTahminUyg.deps.json
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\bin\Debug\net8.0-windows\ProjeSayiTahminUyg.runtimeconfig.json
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\bin\Debug\net8.0-windows\ProjeSayiTahminUyg.dll
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\bin\Debug\net8.0-windows\ProjeSayiTahminUyg.pdb
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.Form1.resources
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.Properties.Resources.resources
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.csproj.GenerateResource.cache
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.AssemblyInfoInputs.cache
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.AssemblyInfo.cs
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.csproj.CoreCompileInputs.cache
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.dll
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\refint\ProjeSayiTahminUyg.dll
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.pdb
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ProjeSayiTahminUyg.genruntimeconfig.cache
+C:\Users\ali-9\OneDrive\Masaüstü\Sadik\ProjeSayiTahminUyg\ProjeSayiTahminUyg\obj\Debug\net8.0-windows\ref\ProjeSayiTahminUyg.dll
